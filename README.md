@@ -1,7 +1,9 @@
 # portfolio
-Hello, I'm Naomi. A Data Analyst with expertise in data analysis and reporting, query optimization, database management, and data modelling.
+Here I will showcase the projects I've worked on throughout the years. 
 
-* Querying data using SQL.
-* Generate reports and perform ad-hoc data analysis using SQL.
-* Developing dashboards on Tableau and python.
-* Data analysis and reporting using Excel and python.
+## Table of Contents
+- Is the Movie a Hit or Flop?
+- Instagram Sentiment Analysis
+- Adidas Sale Trends
+- Statistical Analysis on California Fires
+- Productive Journal App
